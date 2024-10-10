@@ -1,0 +1,2 @@
+# clasepandas
+Funcionamiento artificial - intellegen
